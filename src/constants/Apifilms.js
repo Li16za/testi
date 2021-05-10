@@ -1,0 +1,1 @@
+export const apiUrl = options => `https://api.themoviedb.org/3/movie/popular?api_key=ff7bb36534d88de5cd7357e3b1c39e72&language=ru&page=${options}`;
